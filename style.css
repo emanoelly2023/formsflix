@@ -1,7 +1,18 @@
+header{
+        border-bottom:groove 4px indianred;
+        padding: 20px;
+}
+
 body{
         background-color: burlywood;
         color: indianred;
-        font-family: "creepster"
-
+        font-family: "Creepster&display"
+        
 }
-background-color: darkred;
+h1{
+        font-size: 20px;
+}
+p{
+        font-size: 8px;
+}
+
